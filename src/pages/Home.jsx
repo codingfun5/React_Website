@@ -1,11 +1,11 @@
 import React from "react";
 import { MenuBtn } from "../components/MenuBtn";
 import './Home.css';
-import AboutImg from '../utils/img/men-2.jpeg';
+import AboutImg from '../utils/img/coffee.jpg';
 import { Link } from 'react-router-dom';
 import { ImageGallery } from "../components/ImageGallery";
 import { ContactInfo } from "../components/ContactInfo";
-import ContactImage from '../utils/img/wepik-gradient-professional-car-repair-company-logo-202401291836386fES.jpeg'
+import ContactImage from '../utils/img/logo1.png'
 
 function Home() {
     return (
@@ -19,7 +19,7 @@ function Home() {
                             <h2 className="mb-0 text-black
                             fm-bold">Welcome To</h2>
                             <h1 className="mb-5 text-black fm-bold
-                            text-center text-sm-start">Car Service</h1>
+                            text-center text-sm-start">Restaurant</h1>
                                 <MenuBtn />
                         </div>
 

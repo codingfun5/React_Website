@@ -1,7 +1,7 @@
 import React from "react";
 import './Menu.css';
 import { Card, CardBody, CardTitle } from 'react-bootstrap';
-import BreakfastImg from '../utils/img/gener-1.jpeg'
+import BreakfastImg from '../utils/img/dish_home.jpg'
 
 function Menu() {
     return (

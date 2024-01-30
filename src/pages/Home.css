@@ -1,5 +1,5 @@
 .home-page header {
-    background-image: url(../utils//img/gener-1.jpeg);
+    background-image: url(../utils//img/dish_home.jpg);
 }
 header {
     background-size: cover;
@@ -14,7 +14,7 @@ header h1 {
 }
 .menu-section {
     background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0,
-     0, 0.7)), url(../utils/img/men-4.jpeg);
+     0, 0.7)), url(../utils/img/coffee.jpg);
      background-size: cover;
      background-position: center;
      img {
