@@ -12,3 +12,10 @@ body {
 code {
   font-family: 'Poppins', sans-serif;
 }
+body{
+  background: #96e0e0;
+  margin: 0;
+  padding: 0;
+}
+
+
